@@ -1,0 +1,7 @@
+{
+  "name": "SeguimientoGPS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
